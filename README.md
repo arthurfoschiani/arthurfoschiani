@@ -1,11 +1,11 @@
 # Olá! 👋
-Sou Arthur Foschiani de Souza, desenvolvedor de São Paulo, Brasil.
+Sou Arthur Foschiani, desenvolvedor de São Paulo, Brasil.
 
 📚 Formação:
 
-- Desenvolvimento de Sistemas pelo SENAI
+- Técnico em Desenvolvimento de Sistemas pelo SENAI
 
-- Análise e Desenvolvimento de Sistemas na FIAP
+- Superior em Análise e Desenvolvimento de Sistemas na FIAP
 
 💼 Experiência:
 
