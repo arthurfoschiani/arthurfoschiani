@@ -1,13 +1,21 @@
 # Olá! 👋
-Meu nome é Arthur Foschiani de Souza e sou de São Paulo, Brasil. Sou formado em Desenvolvimento de Sistemas pelo SENAI e atualmente estou cursando Análise e Desenvolvimento de Sistemas na FIAP.
+Sou Arthur Foschiani de Souza, desenvolvedor de São Paulo, Brasil.
 
-Minha jornada de programação começou com uma abordagem Full-Stack, mas, ao longo do tempo, percebi que minha verdadeira paixão é o desenvolvimento front-end. Apesar disso, não se engane, minha formação Full-Stack continua sendo uma grande força em meu arsenal de habilidades. 😄
+📚 Formação:
 
-As linguagens de programação e tecnologias que domino incluem Python, JavaScript, TypeScript e C#, e tenho experiência significativa trabalhando com frameworks como React e Angular.
+- Desenvolvimento de Sistemas pelo SENAI
 
-Além do meu amor pela programação, uma das coisas que realmente valorizo é a oportunidade de compartilhar meu trabalho com a comunidade de desenvolvimento. Portanto, sinta-se à vontade para explorar meus projetos aqui no GitHub. Espero que eles possam inspirar você, assim como acredito que a colaboração e o compartilhamento de conhecimento inspiram a inovação.
+- Análise e Desenvolvimento de Sistemas na FIAP
 
-Fique à vontade para entrar em contato ou fazer perguntas sobre qualquer um dos meus projetos. Estou sempre disposto a conversar sobre programação e tecnologia. Obrigado por visitar meu perfil!
+💼 Experiência:
+
+Desenvolvedor Full-Stack, com foco atual em Front-End.
+
+- Linguagens: Python, JavaScript, TypeScript, Java e C#.
+  
+- Frameworks: React e Angular.
+
+  
 
 # Tech Stack 💻
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
