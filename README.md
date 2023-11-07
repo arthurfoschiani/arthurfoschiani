@@ -1,5 +1,5 @@
 # Olá! 👋
-Sou Arthur Foschiani, desenvolvedor de São Paulo, Brasil.
+Sou Arthur Foschiani, desenvolvedor em São Paulo, Brasil.
 
 📚 Formação:
 
